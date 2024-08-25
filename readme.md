@@ -1,4 +1,4 @@
-Interactive RDP Connection Script
+# Interactive RDP Connection Script
 
 This project contains an interactive Bash script that allows you to establish an RDP (Remote Desktop Protocol) connection from a Linux machine using the `xfreerdp` command.
 
